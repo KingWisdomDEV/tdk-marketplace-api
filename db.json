@@ -9,6 +9,11 @@
       "id": 2,
       "username": "admin",
       "password": "admin"
+    },
+    {
+      "id": 3,
+      "username": "thedeathkingdom@gmail.com",
+      "password": "123456"
     }
   ]
 }
