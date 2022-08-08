@@ -19,18 +19,18 @@
   "summaryTransactions": {
     "D1": {
       "listed": "456",
-      "total": "2,304,930.49",
-      "traded": "1,162"
+      "total": "2304930.49",
+      "traded": "1162"
     },
     "D7": {
       "listed": "578",
-      "total": "3,367,340.42",
-      "traded": "2,634"
+      "total": "336734042",
+      "traded": "2634"
     },
     "D30": {
       "listed": "683",
-      "total": "5,346,925.33",
-      "traded": "5,637"
+      "total": "5346925.33",
+      "traded": "5637"
     }
   }
 }
