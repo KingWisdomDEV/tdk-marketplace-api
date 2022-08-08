@@ -22,18 +22,18 @@
   "summaryTransactions": {
     "D1": {
       "listed": "456",
-      "total": "2,304,930.49",
-      "traded": "1,162"
+      "total": "2304930.49",
+      "traded": "1162"
     },
     "D7": {
       "listed": "578",
-      "total": "3,367,340.42",
-      "traded": "2,634"
+      "total": "3367340.42",
+      "traded": "2634"
     },
     "D30": {
       "listed": "683",
-      "total": "5,346,925.33",
-      "traded": "5,637"
+      "total": "5346925.33",
+      "traded": "5637"
     }
   },
   "listTank": [
@@ -172,7 +172,7 @@
     {
       "id": 1,
       "name": "Box Name",
-      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "image": "http://localhost:3000/images/boxs/commonBox.png",
       "level": 1,
       "tankClass": "Tank Class",
       "releasedTime": "30",
@@ -185,7 +185,7 @@
     {
       "id": 2,
       "name": "Box Name",
-      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "image": "http://localhost:3000/images/boxs/commonBox.png",
       "level": 1,
       "tankClass": "Tank Class",
       "releasedTime": "30",
@@ -198,7 +198,7 @@
     {
       "id": 3,
       "name": "Box Name",
-      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "image": "http://localhost:3000/images/boxs/commonBox.png",
       "level": 1,
       "tankClass": "Tank Class",
       "releasedTime": "30",
@@ -211,7 +211,7 @@
     {
       "id": 4,
       "name": "Box Name",
-      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "image": "http://localhost:3000/images/boxs/commonBox.png",
       "level": 1,
       "tankClass": "Tank Class",
       "releasedTime": "30",
@@ -224,7 +224,7 @@
     {
       "id": 5,
       "name": "Box Name",
-      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "image": "http://localhost:3000/images/boxs/commonBox.png",
       "level": 1,
       "tankClass": "Tank Class",
       "releasedTime": "30",
@@ -237,7 +237,7 @@
     {
       "id": 6,
       "name": "Box Name",
-      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "image": "http://localhost:3000/images/boxs/commonBox.png",
       "level": 1,
       "tankClass": "Tank Class",
       "releasedTime": "30",
