@@ -19,19 +19,150 @@
   "summaryTransactions": {
     "D1": {
       "listed": "456",
-      "total": "2304930.49",
-      "traded": "1162"
+      "total": "2,304,930.49",
+      "traded": "1,162"
     },
     "D7": {
       "listed": "578",
-      "total": "336734042",
-      "traded": "2634"
+      "total": "3,367,340.42",
+      "traded": "2,634"
     },
     "D30": {
       "listed": "683",
-      "total": "5346925.33",
-      "traded": "5637"
+      "total": "5,346,925.33",
+      "traded": "5,637"
     }
-  }
+  },
+  "listTank": [
+    {
+      "id": 1,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/2.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "UN_OWNED"
+    },
+    {
+      "id": 2,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/1.png",
+      "level": 2,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "OWNED"
+    },
+    {
+      "id": 3,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/3.png",
+      "level": 3,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "UN_OWNED"
+    },
+    {
+      "id": 4,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/5.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "OWNED"
+    },
+    {
+      "id": 5,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/8.png",
+      "level": 3,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "SELLING"
+    },
+    {
+      "id": 6,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/6.png",
+      "level": 2,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "UN_OWNED"
+    },
+    {
+      "id": 7,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/7.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "SELLING"
+    },
+    {
+      "id": 8,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/9.png",
+      "level": 3,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "OWNED"
+    },
+    {
+      "id": 9,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/5.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "UN_OWNED"
+    },
+    {
+      "id": 10,
+      "name": "Tank Name",
+      "image": "http://localhost:3000/images/tanks/1.png",
+      "level": 2,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "OWNED"
+    }
+  ]
 }
-
