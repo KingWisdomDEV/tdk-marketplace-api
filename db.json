@@ -3,17 +3,20 @@
     {
       "id": 1,
       "username": "kingwisdom@gmail.com",
-      "password": "111111"
+      "password": "111111",
+      "addressID": "#sdfex7537"
     },
     {
       "id": 2,
-      "username": "admin",
-      "password": "admin"
+      "username": "admin@gmail.com",
+      "password": "123456",
+      "addressID": "#sdfex7537"
     },
     {
       "id": 3,
       "username": "thedeathkingdom@gmail.com",
-      "password": "123456"
+      "password": "123456",
+      "addressID": null
     }
   ],
   "summaryTransactions": {
@@ -156,6 +159,86 @@
       "name": "Tank Name",
       "image": "http://localhost:3000/images/tanks/1.png",
       "level": 2,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "OWNED"
+    }
+  ],
+  "boxs": [
+    {
+      "id": 1,
+      "name": "Box Name",
+      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "OWNED"
+    },
+    {
+      "id": 2,
+      "name": "Box Name",
+      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "UN_OWNED"
+    },
+    {
+      "id": 3,
+      "name": "Box Name",
+      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "OWNED"
+    },
+    {
+      "id": 4,
+      "name": "Box Name",
+      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "UN_OWNED"
+    },
+    {
+      "id": 5,
+      "name": "Box Name",
+      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "level": 1,
+      "tankClass": "Tank Class",
+      "releasedTime": "30",
+      "timeOwned": "20",
+      "remaining": 60,
+      "price": 6000,
+      "priceInUSD": 9.1,
+      "itemStatus": "UN_OWNED"
+    },
+    {
+      "id": 6,
+      "name": "Box Name",
+      "image": "http://localhost:3000/images/boxs/commingBox.png",
+      "level": 1,
       "tankClass": "Tank Class",
       "releasedTime": "30",
       "timeOwned": "20",
