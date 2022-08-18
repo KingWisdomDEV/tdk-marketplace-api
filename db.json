@@ -23,7 +23,8 @@
       "username": "thedeathkingdom.dev@gmail.com",
       "password": "12345678",
       "addressID": null, 
-      "balance": 2000
+      "balance": 2000, 
+      "username": 'King Wisdom'
     }
   ],
   "summaryTransactions": {
