@@ -17,6 +17,13 @@
       "username": "thedeathkingdom@gmail.com",
       "password": "123456",
       "addressID": null
+    },
+    {
+      "id": 4,
+      "username": "thedeathkingdom.dev@gmail.com",
+      "password": "12345678",
+      "addressID": null, 
+      "balance": 2000
     }
   ],
   "summaryTransactions": {
